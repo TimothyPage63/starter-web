@@ -3,7 +3,7 @@
 
 # TEAM
 
-    <name> -- <role> -- <twitter>
+    Tim Page  Programmer timothypage63@gmail.com
 
 # THANKS
 
